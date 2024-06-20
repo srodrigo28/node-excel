@@ -5,4 +5,4 @@
 npm init -y
 
 * Dependências
-npm i nodemon express xlsx loadash
+npm i nodemon express xlsx lodash

@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
     "nodemon": "^3.1.4",
     "xlsx": "^0.18.5"
   }
